@@ -75,7 +75,7 @@ export enum APIUrl {
   // Domain='http://localhost:54343//',
    Domain='https://Fintech.trivpay.com/',
   //Domain = 'https://roundpay.net/',
-   BaseURL='http://Fintech.trivpay.com/WebApp/'
+   BaseURL='https://Fintech.trivpay.com/WebApp/'
   //BaseURL = 'http://localhost:54343/WebApp/'
 
 }
